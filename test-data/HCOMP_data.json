@@ -1,0 +1,46 @@
+{
+  "Title": "AAAI Conference on Human Computation and Crowdsourcing",
+  "Acronym": "HCOMP",
+  "Source": "CORE2023",
+  "Rank": "B",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4608",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://www.humancomputation.com/2023/",
+    "https://www.humancomputation.com/",
+    "https://www.humancomputation.com/submit.html",
+    "https://www.humancomputation.com/program.html"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2020-07-31T00:00:00.000Z",
+      "keyword": "Doctoral Consortium",
+      "update_time": "2024-09-22T12:38:32.822Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2020-06-26T00:00:00.000Z",
+      "keyword": "Full papers due",
+      "update_time": "2024-09-22T12:38:32.821Z"
+    },
+    {
+      "date": "2023-06-09T00:00:00.000Z",
+      "keyword": "Abstracts",
+      "update_time": "2024-09-22T12:38:32.821Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2020-08-07T00:00:00.000Z",
+      "keyword": "notification",
+      "update_time": "2024-09-22T12:38:32.823Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "Not found",
+  "Type": "Not found"
+}

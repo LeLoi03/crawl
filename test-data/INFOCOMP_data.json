@@ -1,0 +1,41 @@
+{
+  "Title": "International Conference on Advanced Communications and Computation",
+  "Acronym": "INFOCOMP",
+  "Source": "CORE2023",
+  "Rank": "Unranked",
+  "Note": "none",
+  "DBLP": "none",
+  "PrimaryFoR": "46",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://www.iaria.org/conferences2023/INFOCOMP23.html",
+    "https://www.iaria.org/conferences2023/CfPINFOCOMP23.html",
+    "https://www.iaria.org/conferences2023/ComINFOCOMP23.html",
+    "https://www.iaria.org/conferences2023/PhotosINFOCOMP23.html"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-06-03T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:38:24.894Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "keyword": "Submission",
+      "update_time": "2024-09-22T12:38:24.892Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-05-05T00:00:00.000Z",
+      "keyword": "Notification",
+      "update_time": "2024-09-22T12:38:24.896Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "Not found",
+  "Type": "Not found"
+}
