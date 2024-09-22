@@ -1,0 +1,29 @@
+{
+  "Title": "ACM SIG International Conference on Computer Graphics and Interactive Techniques",
+  "Acronym": "SIGGRAPH",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4607",
+  "Comments": "1",
+  "AverageRating": "5.0",
+  "Links": [
+    "https://s2023.siggraph.org/",
+    "https://s2023.siggraph.org/full-program/",
+    "https://s2023.siggraph.org/programs-events/",
+    "https://s2023.siggraph.org/register/"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2023-08-01T20:05:52.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:54:28.565Z"
+    }
+  ],
+  "SubmissonDate": [],
+  "NotificationDate": [],
+  "CallForPaper": "Not found",
+  "Location": "Los Angeles or online starting 6",
+  "Type": "Not found"
+}

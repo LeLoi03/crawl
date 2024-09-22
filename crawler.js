@@ -2,6 +2,9 @@ const puppeteer = require("puppeteer");
 const dateFinder = require("datefinder");
 const fs = require("fs");
 require("dotenv").config();
+
+const { getLocation } = require("./extract-location.js"); // Nhập hàm getLocation 
+
 // Đọc dữ liệu test từ file input
 // const conferences = require('./test-data/conferences.json');
 // Tiền xử lý trước khi trích xuất ngày tháng
@@ -273,6 +276,7 @@ const getConferenceDetails = async (browser, conference) => {
             conference.NotificationDate = notificationDate;
             conference.CallForPaper = "Not found";
             conference.Location = "Not found";
+            conference.Location = await getLocation(browser, conference.Title, conference.Links[k]);
             conference.Type = "Not found";
 
             await page.close();

@@ -1,0 +1,66 @@
+{
+  "Title": "ACM International Conference on Knowledge Discovery and Data Mining",
+  "Acronym": "KDD",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4605",
+  "Comments": "1",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://kdd.org/kdd2023/index.html",
+    "https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html",
+    "https://kdd.org/kdd2023/research-track-papers/index.html",
+    "https://kdd.org/kdd2023/call-for-research-track-papers/index.html"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-07-31T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:53:03.595Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-02-02T00:00:00.000Z",
+      "keyword": "Submission – Research/ADS paper",
+      "update_time": "2024-09-22T12:53:03.581Z"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "keyword": "Submission – Workshop proposal",
+      "update_time": "2024-09-22T12:53:03.582Z"
+    },
+    {
+      "date": "2023-02-28T00:00:00.000Z",
+      "keyword": "Submission – KDD Cup proposal",
+      "update_time": "2024-09-22T12:53:03.583Z"
+    },
+    {
+      "date": "2023-06-28T00:00:00.000Z",
+      "keyword": "Submission deadline for",
+      "update_time": "2024-09-22T12:53:03.586Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-05-01T00:00:00.000Z",
+      "keyword": "Notification – Research/ADS paper",
+      "update_time": "2024-09-22T12:53:03.596Z"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "keyword": "Notification – Workshop proposal",
+      "update_time": "2024-09-22T12:53:03.596Z"
+    },
+    {
+      "date": "2023-03-05T00:00:00.000Z",
+      "keyword": "Notification – KDD Cup proposal",
+      "update_time": "2024-09-22T12:53:03.596Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "",
+  "Type": "Not found"
+}

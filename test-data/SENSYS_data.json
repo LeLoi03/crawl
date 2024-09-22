@@ -1,0 +1,51 @@
+{
+  "Title": "ACM Conference on Embedded Networked Sensor Systems",
+  "Acronym": "SENSYS",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4606",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "http://sensys.acm.org/2023/",
+    "http://sensys.acm.org/2023/program/",
+    "http://sensys.acm.org/2023/cfp/",
+    "http://sensys.acm.org/2023/award/"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2023-11-15T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:51:48.049Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-06-29T23:59:00.000Z",
+      "keyword": "Paper Submission",
+      "update_time": "2024-09-22T12:51:48.048Z"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "keyword": "Paper Deadline",
+      "update_time": "2024-09-22T12:51:48.048Z"
+    },
+    {
+      "date": "2023-06-22T23:59:00.000Z",
+      "keyword": "Abstract",
+      "update_time": "2024-09-22T12:51:48.048Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-09-19T00:00:00.000Z",
+      "keyword": "Notification of Paper Acceptance",
+      "update_time": "2024-09-22T12:51:48.050Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "Bahcesehir University, Istanbul",
+  "Type": "Not found"
+}

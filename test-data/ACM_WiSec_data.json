@@ -1,0 +1,56 @@
+{
+  "Title": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+  "Acronym": "ACM_WiSec",
+  "Source": "CORE2023",
+  "Rank": "B",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4604",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://wisec2023.surrey.ac.uk/",
+    "https://wisec2023.surrey.ac.uk/call-for-papers/",
+    "https://twitter.com/acm_wisec",
+    "https://twitter.com/acm_wisec/status/1663177915368972289"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-05-29T00:00:00.000Z",
+      "keyword": "will be held from",
+      "update_time": "2024-09-22T12:52:10.308Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-03-15T00:00:00.000Z",
+      "keyword": "Paper Submission Deadline",
+      "update_time": "2024-09-22T12:52:10.306Z"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "keyword": "Second submission round",
+      "update_time": "2024-09-22T12:52:10.306Z"
+    },
+    {
+      "date": "2022-11-17T00:00:00.000Z",
+      "keyword": "First submission round",
+      "update_time": "2024-09-22T12:52:10.307Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-04-24T00:00:00.000Z",
+      "keyword": "Demo acceptance notification",
+      "update_time": "2024-09-22T12:52:10.308Z"
+    },
+    {
+      "date": "2022-12-20T00:00:00.000Z",
+      "keyword": "Author notification",
+      "update_time": "2024-09-22T12:52:10.309Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "",
+  "Type": "Not found"
+}

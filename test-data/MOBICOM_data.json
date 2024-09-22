@@ -1,0 +1,51 @@
+{
+  "Title": "ACM International Conference on Mobile Computing and Networking",
+  "Acronym": "MOBICOM",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4606",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://sigmobile.org/mobicom/2023/",
+    "https://sigmobile.org/mobicom/2023/accepted.html",
+    "https://sigmobile.org/mobicom/2023/program.html",
+    "https://www.sigmobile.org/mobicom/2023/cfp.html"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-09-30T00:00:00.000Z",
+      "keyword": "Conference Dates",
+      "update_time": "2024-09-22T12:53:08.592Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2024-08-12T00:00:00.000Z",
+      "keyword": "Abstract Registration",
+      "update_time": "2024-09-22T12:53:08.590Z"
+    },
+    {
+      "date": "2024-08-19T00:00:00.000Z",
+      "keyword": "Paper Submission",
+      "update_time": "2024-09-22T12:53:08.591Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2024-11-18T00:00:00.000Z",
+      "keyword": "Notification of Acceptance",
+      "update_time": "2024-09-22T12:53:08.592Z"
+    },
+    {
+      "date": "2024-10-07T00:00:00.000Z",
+      "keyword": "Early Notification",
+      "update_time": "2024-09-22T12:53:08.593Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "",
+  "Type": "Not found"
+}

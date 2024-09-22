@@ -1,0 +1,41 @@
+{
+  "Title": "ACIS Conference on Software Engineering Research, Management and Applications",
+  "Acronym": "SERA",
+  "Source": "CORE2023",
+  "Rank": "C",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4612",
+  "Comments": "1",
+  "AverageRating": "4.0",
+  "Links": [
+    "https://acisinternational.org/conferences/sera-2023/",
+    "https://www.sera.ac.uk/sera-conference-2023/",
+    "https://acisinternational.org/conferences/sera-2023-winter/",
+    "https://xe.chotot.com/mua-ban-oto-toyota-sera-2023-huyen-moc-chau-son-la-sdcb2cm89mf2023"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2023-02-28T00:00:00.000Z",
+      "keyword": "Schedule",
+      "update_time": "2024-09-22T12:51:17.721Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-02-26T00:00:00.000Z",
+      "keyword": "Paper Submission",
+      "update_time": "2024-09-22T12:51:17.713Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-03-26T00:00:00.000Z",
+      "keyword": "Acceptance Notification",
+      "update_time": "2024-09-22T12:51:17.723Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "",
+  "Type": "Not found"
+}

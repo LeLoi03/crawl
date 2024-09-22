@@ -1,0 +1,29 @@
+{
+  "Title": "ACM International Conference on Recommender Systems",
+  "Acronym": "RecSys",
+  "Source": "CORE2023",
+  "Rank": "A",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4605",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://recsys.acm.org/recsys23/",
+    "https://recsys.acm.org/recsys23/accepted-contributions/",
+    "https://recsys.acm.org/recsys23/program/",
+    "https://recsys.acm.org/recsys23/dates/"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2012-09-30T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:53:13.887Z"
+    }
+  ],
+  "SubmissonDate": [],
+  "NotificationDate": [],
+  "CallForPaper": "Not found",
+  "Location": "Singapore",
+  "Type": "Not found"
+}

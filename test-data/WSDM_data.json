@@ -1,0 +1,29 @@
+{
+  "Title": "ACM International Conference on Web Search and Data Mining",
+  "Acronym": "WSDM",
+  "Source": "CORE2023",
+  "Rank": "A",
+  "Note": "See note",
+  "DBLP": "view",
+  "PrimaryFoR": "4605",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://www.wsdm-conference.org/2023/",
+    "https://www.wsdm-conference.org/2023/program/accepted-papers",
+    "https://www.wsdm-conference.org/2023/calls/call-papers",
+    "https://www.wsdm-conference.org/2023/program/overview"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-02-27T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:53:35.881Z"
+    }
+  ],
+  "SubmissonDate": [],
+  "NotificationDate": [],
+  "CallForPaper": "Not found",
+  "Location": "Singapore ( conference with virtual elements)",
+  "Type": "Not found"
+}

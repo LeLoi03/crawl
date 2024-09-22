@@ -18,24 +18,24 @@
     {
       "date": "2024-06-03T00:00:00.000Z",
       "keyword": "Conference",
-      "update_time": "2024-09-22T12:38:24.894Z"
+      "update_time": "2024-09-22T12:51:01.900Z"
     }
   ],
   "SubmissonDate": [
     {
       "date": "2023-04-07T00:00:00.000Z",
       "keyword": "Submission",
-      "update_time": "2024-09-22T12:38:24.892Z"
+      "update_time": "2024-09-22T12:51:01.899Z"
     }
   ],
   "NotificationDate": [
     {
       "date": "2023-05-05T00:00:00.000Z",
       "keyword": "Notification",
-      "update_time": "2024-09-22T12:38:24.896Z"
+      "update_time": "2024-09-22T12:51:01.901Z"
     }
   ],
   "CallForPaper": "Not found",
-  "Location": "Not found",
+  "Location": "",
   "Type": "Not found"
 }

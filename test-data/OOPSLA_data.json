@@ -1,0 +1,71 @@
+{
+  "Title": "ACM Conference on Object Oriented Programming Systems Languages and Applications",
+  "Acronym": "OOPSLA",
+  "Source": "CORE2023",
+  "Rank": "A",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4612",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://2023.splashcon.org/track/splash-2023-oopsla",
+    "https://2023.splashcon.org/track/splash-2023-SRC",
+    "https://oopsla23.hotcrp.com/",
+    "https://pldi24.sigplan.org/details/pldi-2024-papers/93/-OOPSLA-2023-Two-Birds-with-One-Stone-Boosting-Code-Generation-and-Code-Search-via-"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "keyword": "conference in",
+      "update_time": "2024-09-22T12:52:02.846Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-02-12T00:00:00.000Z",
+      "keyword": "Submission of Revisions Round 1",
+      "update_time": "2024-09-22T12:52:02.784Z"
+    },
+    {
+      "date": "2023-08-13T00:00:00.000Z",
+      "keyword": "Submission of Revisions Round 2",
+      "update_time": "2024-09-22T12:52:02.785Z"
+    },
+    {
+      "date": "2023-04-14T00:00:00.000Z",
+      "keyword": "Submission Deadline Round 2",
+      "update_time": "2024-09-22T12:52:02.796Z"
+    },
+    {
+      "date": "2022-10-28T00:00:00.000Z",
+      "keyword": "Submission Deadline Round 1",
+      "update_time": "2024-09-22T12:52:02.798Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-08-27T00:00:00.000Z",
+      "keyword": "Author Notification of Revisions Round 2",
+      "update_time": "2024-09-22T12:52:02.854Z"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "keyword": "Author Notification of Revisions Round 1",
+      "update_time": "2024-09-22T12:52:02.854Z"
+    },
+    {
+      "date": "2023-06-30T00:00:00.000Z",
+      "keyword": "Author Notification Round 2",
+      "update_time": "2024-09-22T12:52:02.872Z"
+    },
+    {
+      "date": "2022-12-23T00:00:00.000Z",
+      "keyword": "Author Notification Round 1",
+      "update_time": "2024-09-22T12:52:02.873Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "",
+  "Type": "Not found"
+}

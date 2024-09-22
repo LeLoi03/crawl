@@ -1,0 +1,41 @@
+{
+  "Title": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
+  "Acronym": "SCA",
+  "Source": "CORE2023",
+  "Rank": "B",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4607",
+  "Comments": "1",
+  "AverageRating": "4.0",
+  "Links": [
+    "https://sca23.medi-ast.org/",
+    "https://computeranimation.org/2023/",
+    "https://sca.coffee/sca-news/tag/Expo+2023",
+    "https://www.coffeeexpo.org/"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:54:36.085Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2024-06-04T00:00:00.000Z",
+      "keyword": "Submission",
+      "update_time": "2024-09-22T12:54:36.081Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2024-07-04T00:00:00.000Z",
+      "keyword": "Notification of Acceptance",
+      "update_time": "2024-09-22T12:54:36.088Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "ESTP, Loge, 28 Av. du Président Wilson Cachan",
+  "Type": "Not found"
+}

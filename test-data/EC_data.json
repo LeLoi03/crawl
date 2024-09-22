@@ -1,0 +1,41 @@
+{
+  "Title": "ACM Conference on Economics and Computation",
+  "Acronym": "EC",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4602",
+  "Comments": "2",
+  "AverageRating": "5.0",
+  "Links": [
+    "https://ec23.sigecom.org/index.html",
+    "https://ec23.sigecom.org/program/accepted-papers/index.html",
+    "https://ec23.sigecom.org/call-for-contributions-acm/papers/index.html",
+    "https://ec23.sigecom.org/program/program-preview/"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-07-03T00:00:00.000Z",
+      "keyword": "Conference technical program",
+      "update_time": "2024-09-22T12:51:42.726Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-01-27T00:00:00.000Z",
+      "keyword": "Abstract submission deadline",
+      "update_time": "2024-09-22T12:51:42.723Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-05-01T00:00:00.000Z",
+      "keyword": "Paper accept/reject notifications",
+      "update_time": "2024-09-22T12:51:42.727Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "the King's College London in London between",
+  "Type": "Not found"
+}

@@ -1,0 +1,51 @@
+{
+  "Title": "ACM International Conference on Advances in Geographic Information Systems",
+  "Acronym": "SIGSPATIAL",
+  "Source": "CORE2023",
+  "Rank": "A",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4601",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://sigspatial2023.sigspatial.org/",
+    "https://sigspatial2023.sigspatial.org/accepted-papers/",
+    "https://sigspatial2023.sigspatial.org/workshops/",
+    "https://sigspatial2023.sigspatial.org/cfp/"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:52:46.192Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2024-05-31T00:00:00.000Z",
+      "keyword": "Paper submission deadline",
+      "update_time": "2024-09-22T12:52:46.190Z"
+    },
+    {
+      "date": "2024-07-31T00:00:00.000Z",
+      "keyword": "Submission Deadline for",
+      "update_time": "2024-09-22T12:52:46.190Z"
+    },
+    {
+      "date": "2023-06-09T00:00:00.000Z",
+      "keyword": "Abstract Submission",
+      "update_time": "2024-09-22T12:52:46.191Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-09-08T00:00:00.000Z",
+      "keyword": "Acceptance Notification",
+      "update_time": "2024-09-22T12:52:46.193Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "Hamburg, Germany",
+  "Type": "Not found"
+}

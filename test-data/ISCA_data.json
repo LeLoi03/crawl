@@ -1,0 +1,51 @@
+{
+  "Title": "ACM International Symposium on Computer Architecture",
+  "Acronym": "ISCA",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "CSE",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://iscaconf.org/isca2023/",
+    "https://www.iscaconf.org/isca2023/program/",
+    "https://www.iscaconf.org/isca2023/program/workshops.php",
+    "https://www.iscaconf.org/isca2023/submit/papers.php"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-06-17T00:00:00.000Z",
+      "keyword": "will be held from",
+      "update_time": "2024-09-22T12:53:46.869Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "keyword": "Tutorial Proposal Submission Deadline",
+      "update_time": "2024-09-22T12:53:46.865Z"
+    },
+    {
+      "date": "2022-11-21T11:59:00.000Z",
+      "keyword": "Full Paper Deadline",
+      "update_time": "2024-09-22T12:53:46.867Z"
+    },
+    {
+      "date": "2022-11-14T11:59:00.000Z",
+      "keyword": "Abstract",
+      "update_time": "2024-09-22T12:53:46.868Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2023-03-09T00:00:00.000Z",
+      "keyword": "Author Notification",
+      "update_time": "2024-09-22T12:53:46.870Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "the Marriott World Center Orlando",
+  "Type": "Not found"
+}

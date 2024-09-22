@@ -18,29 +18,29 @@
     {
       "date": "2020-07-31T00:00:00.000Z",
       "keyword": "Doctoral Consortium",
-      "update_time": "2024-09-22T12:38:32.822Z"
+      "update_time": "2024-09-22T12:51:11.673Z"
     }
   ],
   "SubmissonDate": [
     {
       "date": "2020-06-26T00:00:00.000Z",
       "keyword": "Full papers due",
-      "update_time": "2024-09-22T12:38:32.821Z"
+      "update_time": "2024-09-22T12:51:11.672Z"
     },
     {
       "date": "2023-06-09T00:00:00.000Z",
       "keyword": "Abstracts",
-      "update_time": "2024-09-22T12:38:32.821Z"
+      "update_time": "2024-09-22T12:51:11.673Z"
     }
   ],
   "NotificationDate": [
     {
       "date": "2020-08-07T00:00:00.000Z",
       "keyword": "notification",
-      "update_time": "2024-09-22T12:38:32.823Z"
+      "update_time": "2024-09-22T12:51:11.674Z"
     }
   ],
   "CallForPaper": "Not found",
-  "Location": "Not found",
+  "Location": "Delft University of Technology as a joint conference with the CI2023-ACM Collective Intelligence Series",
   "Type": "Not found"
 }

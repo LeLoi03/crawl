@@ -1,0 +1,46 @@
+{
+  "Title": "ACM Int'l Symposium on Field Programmable Gate Arrays",
+  "Acronym": "FPGA",
+  "Source": "CORE2023",
+  "Rank": "TBR",
+  "Note": "See note",
+  "DBLP": "view",
+  "PrimaryFoR": "CSE",
+  "Comments": "0",
+  "AverageRating": "N/A",
+  "Links": [
+    "https://www.isfpga.org/past/fpga2023/",
+    "https://www.isfpga.org/",
+    "https://www.it-labs.com/fpga-in-2023-a-comprehensive-overview-of-key-milestones-and-innovations/",
+    "https://www.intel.vn/content/www/vn/vi/content-details/790098/questa-intel-fpga-edition-2023-2-release-notes-compatible-with-intel-quartus-prime-pro-edition-software.html"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-02-02T00:00:00.000Z",
+      "keyword": "Conference",
+      "update_time": "2024-09-22T12:52:22.353Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2024-05-31T00:00:00.000Z",
+      "keyword": "Submission",
+      "update_time": "2024-09-22T12:52:22.351Z"
+    },
+    {
+      "date": "2024-09-02T00:00:00.000Z",
+      "keyword": "Abstracts",
+      "update_time": "2024-09-22T12:52:22.352Z"
+    }
+  ],
+  "NotificationDate": [
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "keyword": "Notification of Acceptance",
+      "update_time": "2024-09-22T12:52:22.355Z"
+    }
+  ],
+  "CallForPaper": "Not found",
+  "Location": "",
+  "Type": "Not found"
+}

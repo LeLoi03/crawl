@@ -1,0 +1,35 @@
+{
+  "Title": "ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+  "Acronym": "SIGCOMM",
+  "Source": "CORE2023",
+  "Rank": "A*",
+  "Note": "none",
+  "DBLP": "view",
+  "PrimaryFoR": "4606",
+  "Comments": "1",
+  "AverageRating": "5.0",
+  "Links": [
+    "https://conferences.sigcomm.org/sigcomm/2023/",
+    "https://conferences.sigcomm.org/sigcomm/2023/program.html",
+    "https://conferences.sigcomm.org/sigcomm/2023/list-accepted.html",
+    "https://conferences.sigcomm.org/sigcomm/2023/cfp.html"
+  ],
+  "ConferenceDate": [
+    {
+      "date": "2024-09-10T00:00:00.000Z",
+      "keyword": "will be held",
+      "update_time": "2024-09-22T12:51:22.545Z"
+    }
+  ],
+  "SubmissonDate": [
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "keyword": "submission deadline",
+      "update_time": "2024-09-22T12:51:22.544Z"
+    }
+  ],
+  "NotificationDate": [],
+  "CallForPaper": "Not found",
+  "Location": "Columbia University in New York City, US",
+  "Type": "Not found"
+}
